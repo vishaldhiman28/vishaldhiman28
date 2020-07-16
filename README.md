@@ -1,5 +1,5 @@
 
-# Hi! I am Vishal 👋  👨‍💻  
+# 👋 Hi! I am Vishal  👨‍💻  
 
 <h2>💻 Software Engineer
 </h2>
@@ -12,7 +12,7 @@
  
 
 
-### Resume
+### :page_with_curl: Resume
 <a href="https://drive.google.com/file/d/1tMQTM5R3iG5mINEJLlGjmzzoDqRFbmWt/view?usp=sharing">
    <img src="https://img.shields.io/badge/🔽 Download Resume-005566"/>
 </a>
