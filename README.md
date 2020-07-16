@@ -1,10 +1,9 @@
 <h1 align='center'>
    Hi! I am Vishal 👋  👨‍💻  
 <h1>
-         
 <h2 align='center'>
-     🖥 Software Engineer
-      <h2><img src="https://img.shields.io/badge/Mail-%230077B5.svg&style=flat&logo=probot&logoColor=white" alt=""> Competitive Programmer
+     💻 Software Engineer
+     💻 Competitive Programmer
 </h2>
  I am an engineer , B-Tech in Computer Science and Engineering. I am passionate for Gaming and Cyber Security industry. I am motivated to develop softwares for people. I prefer Backend Development.
 
