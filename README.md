@@ -1,11 +1,12 @@
 <h1 align='center'>
    Hi! I am Vishal 👋  👨‍💻  
 </h1>
-<!-- <h2 align='center'>
+
+<h2 align='center'>
      💻 Software Engineer
-     💻 Competitive Programmer
-</h2> -->
-<p align='center'> 
+</h2>
+
+<p align='justify'> 
    I am an engineer , B-Tech in Computer Science and Engineering.
    I am motivated to develop softwares for people. I prefer Backend Development.
 </p>
