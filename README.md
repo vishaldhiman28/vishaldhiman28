@@ -7,7 +7,6 @@
 </h2> -->
 <p align='center'> 
    I am an engineer , B-Tech in Computer Science and Engineering.
-   
    I am motivated to develop softwares for people. I prefer Backend Development.
 </p>
 
