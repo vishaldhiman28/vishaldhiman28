@@ -6,7 +6,7 @@
 
 
 ### Resume
-<a href="https://drive.google.com/file/d/1tMQTM5R3iG5mINEJLlGjmzzoDqRFbmWt/view?usp=sharing"><img src="https://img.shields.io/badge/🔽Download Resume-002366"/></a>
+<a href="https://drive.google.com/file/d/1tMQTM5R3iG5mINEJLlGjmzzoDqRFbmWt/view?usp=sharing"><img src="https://img.shields.io/badge/🔽Download Resume-005566"/></a>
 
 ### 📫 Reach Me
 
