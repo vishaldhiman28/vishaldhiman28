@@ -6,9 +6,6 @@
 <p align='justify'> 
    I am an engineer , B-Tech in Computer Science and Engineering.
 </p>
-<p align='justify'> 
-  I am motivated to develop softwares for people. I prefer Backend Development.
-</p>
 
 
 <!-- <img src="https://img.shields.io/badge/C++ 🟢🟢🟢🟢🟢?&style=flat&logo=cplusplus&logoColor=white" />  -->
