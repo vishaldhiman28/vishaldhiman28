@@ -13,12 +13,18 @@
 
 
 ### Resume
-<a href="https://drive.google.com/file/d/1tMQTM5R3iG5mINEJLlGjmzzoDqRFbmWt/view?usp=sharing"><img src="https://img.shields.io/badge/🔽 Download Resume-005566"/></a>
+<a href="https://drive.google.com/file/d/1tMQTM5R3iG5mINEJLlGjmzzoDqRFbmWt/view?usp=sharing">
+   <img src="https://img.shields.io/badge/🔽 Download Resume-005566"/>
+</a>
 
 ### 📫 Reach Me
 
-<a href="https://www.linkedin.com/in/vishaldhiman28/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:me@vishaldhiman.in"><img src="https://img.shields.io/badge/Mail-%230077B5.svg?&style=flat&logo=Gmail&logoColor=white" alt="Mail">Mail</a>
+<a href="https://www.linkedin.com/in/vishaldhiman28/">
+   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="mailto:me@vishaldhiman.in">
+   <img src="https://img.shields.io/badge/Mail-%D14836.svg?&style=flat&logo=Gmail&logoColor=white" alt="Mail">
+</a>&nbsp;&nbsp;
 
 
 
