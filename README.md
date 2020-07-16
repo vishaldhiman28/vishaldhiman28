@@ -13,7 +13,7 @@
 
 ### Personal Website
  <a href="https://www.vishaldhiman.in/">
-   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo={}&logoColor=white" alt="">
+   <img src="https://img.shields.io/badge/Vishal Dhiman-%230077B5.svg?&style=flat&logo=probot&logoColor=white" alt="">
    vishaldhiman.in
 </a>&nbsp;&nbsp;
 
@@ -31,8 +31,9 @@
    <img src="https://img.shields.io/badge/Mail-%D14836.svg?&style=flat&logo=Gmail&logoColor=white" alt="Mail">
 </a>&nbsp;&nbsp;
 
-### :eyes: Visitors
- <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=vishaldhiman28.vishaldhiman.28"></a>
+
+<!-- <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=vishaldhiman28.vishaldhiman.28"></a> -->
+
 
 <!--
 **vishaldhiman28/vishaldhiman28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
