@@ -13,8 +13,7 @@
 
 ### Personal Website
  <a href="https://www.vishaldhiman.in/">
-   <img src="https://img.shields.io/badge/Vishal Dhiman-%230077B5.svg?&style=flat&logo=probot&logoColor=white" alt="">
-   vishaldhiman.in
+   <img src="https://img.shields.io/badge/vishaldhiman.in-%ff5e1f.svg?&style=flat&logo=probot&logoColor=white" alt="">
 </a>&nbsp;&nbsp;
 
 ### :page_with_curl: Resume
