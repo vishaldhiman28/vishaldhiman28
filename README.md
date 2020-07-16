@@ -2,7 +2,7 @@
  
  ### Hi! I am Vishal 👋 
  
- I am an engineer , B-Tech in Computer Science and Engineering. I am passionate for Gaming and Cyber Security industry. I am motivated to develop softwares for people. I am always learning to become a better Professional. I prefer Backend Development.
+ I am an engineer , B-Tech in Computer Science and Engineering. I am passionate for Gaming and Cyber Security industry. I am motivated to develop softwares for people. I prefer Backend Development.
 
 
 ### Resume
@@ -11,7 +11,8 @@
 ### 📫 Reach Me
 
 
-<a href="https://www.linkedin.com/in/vishaldhiman28/"><img src="https://img.shields.io/badge/LinkedIn&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/vishaldhiman28/"><img src="https://img.shields.io/badge/Mail-%230077B5.svg&style=flat&logo=mail&logoColor=white" alt="LinkedIn"></a>
+
 <a href="https://www.linkedin.com/in/vishaldhiman28/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
