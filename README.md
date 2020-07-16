@@ -11,7 +11,7 @@
 </p>
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/C++%20🟢🟢🟢🟢🟢-%23239120.svg?&style=flat&logo=c++&logoColor=white" /> 
+<img src="https://img.shields.io/badge/C++ 🟢🟢🟢🟢🟢?&style=flat&logo=cplusplus&logoColor=white" /> 
 
 ### Personal Website
  <a href="https://www.vishaldhiman.in/">
