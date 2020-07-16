@@ -10,6 +10,8 @@
   I am motivated to develop softwares for people. I prefer Backend Development.
 </p>
 
+### Tech Stack
+<img src="https://img.shields.io/badge/c%20sharp%20🟢🟢🟢🟢🟢-%23239120.svg?&style=for-the-badge&logo=c++%20sharp&logoColor=white" /> 
 
 ### Personal Website
  <a href="https://www.vishaldhiman.in/">
