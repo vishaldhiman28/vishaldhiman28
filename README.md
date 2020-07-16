@@ -1,17 +1,13 @@
-<h1 align='center'>
-   Hi! I am Vishal 👋  👨‍💻  
-</h1>
 
-<h2 align='center'>
-     💻 Software Engineer
+# Hi! I am Vishal 👋  👨‍💻  
+
+<h2>💻 Software Engineer
 </h2>
-<p align='center'>
 <p align='justify'> 
    I am an engineer , B-Tech in Computer Science and Engineering.
 </p>
 <p align='justify'> 
   I am motivated to develop softwares for people. I prefer Backend Development.
-</p>
 </p>
  
 
