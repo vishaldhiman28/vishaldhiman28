@@ -18,8 +18,7 @@
 ### 📫 Reach Me
 
 <a href="https://www.linkedin.com/in/vishaldhiman28/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<a href="mailto:me@vishaldhiman.in"><img src="https://img.shields.io/badge/Gmail-%230077B5.svg?&style=flat&logo=Gmail&logoColor=white" alt="Mail">Mail</a>
+<a href="mailto:me@vishaldhiman.in"><img src="https://img.shields.io/badge/Mail-%230077B5.svg?&style=flat&logo=Gmail&logoColor=white" alt="Mail">Mail</a>
 
 
 
