@@ -1,13 +1,3 @@
-<h1 align='center'>
-   Hi! I am Vishal 👋  👨‍💻  
-<h1>
-<h2 align='center'>
-     💻 Software Engineer
-     💻 Competitive Programmer
-</h2>
- I am an engineer , B-Tech in Computer Science and Engineering. I am passionate for Gaming and Cyber Security industry. I am motivated to develop softwares for people. I prefer Backend Development.
-
-
 ### Resume
 <a href="https://drive.google.com/file/d/1tMQTM5R3iG5mINEJLlGjmzzoDqRFbmWt/view?usp=sharing"><img src="https://img.shields.io/badge/🔽 Download Resume-005566"/></a>
 
