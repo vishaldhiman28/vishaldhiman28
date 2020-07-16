@@ -1,13 +1,15 @@
 <h1 align='center'>
    Hi! I am Vishal 👋  👨‍💻  
-<h1>
+</h1>
 <!-- <h2 align='center'>
      💻 Software Engineer
      💻 Competitive Programmer
 </h2> -->
- <p align='center'> 
+<p align='center'> 
    I am an engineer , B-Tech in Computer Science and Engineering. I am motivated to develop softwares for people. I prefer Backend Development.
 </p>
+
+
 ### Resume
 <a href="https://drive.google.com/file/d/1tMQTM5R3iG5mINEJLlGjmzzoDqRFbmWt/view?usp=sharing"><img src="https://img.shields.io/badge/🔽 Download Resume-005566"/></a>
 
