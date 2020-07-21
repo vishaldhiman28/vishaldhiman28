@@ -16,7 +16,7 @@
 </a>&nbsp;&nbsp;
 
 ### :page_with_curl: Resume
-<a href="https://drive.google.com/file/d/1tMQTM5R3iG5mINEJLlGjmzzoDqRFbmWt/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1BzSkSH9JRRuw_a96JC1_ChJU2msGPVIw/view?usp=sharing">
    <img src="https://img.shields.io/badge/🔽 Download Resume-005566"/>
 </a>
 
