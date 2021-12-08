@@ -16,7 +16,7 @@
 </a>&nbsp;&nbsp;
 
 ### :page_with_curl: Resume
-<a href="https://drive.google.com/drive/folders/1oGaNuTU4QJRT0zmCBjmI0ztx_3DNRjN9?usp=sharing">
+<a href="https://drive.google.com/drive/folders/1oGaNuTU4QJRT0zmCBjmI0ztx_3DNRjN9">
    <img src="https://img.shields.io/badge/🔽 Download Resume-005566"/>
 </a>
 
@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/vishaldhiman28/">
    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;&nbsp;
-<a href="mailto:me@vishaldhiman.in">
+<a href="mailto:cse_vishal@hotmail.com">
    <img src="https://img.shields.io/badge/Mail-%5541836.svg?&style=flat&logo=Gmail&logoColor=white" alt="Mail">
 </a>&nbsp;&nbsp;
 
