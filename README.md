@@ -15,11 +15,6 @@
    <img src="https://img.shields.io/badge/vishaldhiman.in-%ff5e1f.svg?&style=flat&logo=probot&logoColor=white" alt="">
 </a>&nbsp;&nbsp;
 
-### :page_with_curl: Resume
-<a href="https://drive.google.com/drive/folders/1oGaNuTU4QJRT0zmCBjmI0ztx_3DNRjN9">
-   <img src="https://img.shields.io/badge/🔽 Download Resume-005566"/>
-</a>
-
 ### 📫 Reach Me
 
 <a href="https://www.linkedin.com/in/vishaldhiman28/">
