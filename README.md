@@ -11,4 +11,3 @@
 <h3 align="left">📫 Reach Me </h3
 
 <a href="https://www.linkedin.com/in/vishaldhiman28/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto: cse_vishal@hotmail.com"><img src="https://img.shields.io/badge/Mail-%5541836.svg?&style=flat&logo=Gmail&logoColor=white" alt="Mail"></a>&nbsp;&nbsp;
-Download Markdown
