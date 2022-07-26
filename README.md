@@ -1,13 +1,23 @@
-<h1 align="left"> 👋 Hi! I am Vishal Dhiman 👨‍💻</h1>
+<h1 align="left">Hi! 👋</h1>
 
-<h2 align="left">💻 Software Engineer</h2>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*- 
 
-<p align="left"> I am an engineer , B-Tech in Computer Science and Engineering..</p>
+class WhoAmI:
 
-<h3 align="left"> Personal Website </h3>
+  def __init__(self):
+    self.name  = "Vishal Dhiman"
+    self.title = "Software Engineer"
+    self.codesIn = ["c++","python","javascript","java"]
+    self.website = "https://vishaldhiman.netlify.app/"
+    self.contactMeAt = {
+      linkedIn : "vishaldhiman28",
+      email    : "me@vishaldhiman.in"
+    }
 
-<a href="https://vishaldhiman.netlify.app"><img src="https://img.shields.io/badge/vishaldhiman.netlify.app-%ff5e1f.svg?&style=flat&logo=probot&logoColor=white" alt=""></a>&nbsp;&nbsp;
+  def sayHi(self):
+        print("Hi, there..! Thanks for coming by..!")
 
-<h3 align="left">📫 Reach Me </h3
 
-<a href="https://www.linkedin.com/in/vishaldhiman28/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto: cse_vishal@hotmail.com"><img src="https://img.shields.io/badge/Mail-%5541836.svg?&style=flat&logo=Gmail&logoColor=white" alt="Mail"></a>&nbsp;&nbsp;
+```
