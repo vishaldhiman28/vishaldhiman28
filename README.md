@@ -45,5 +45,3 @@ I'm Vishal Dhiman. I build scalable, high-performance systems and developer tool
 ## How to reach me
 - Website: https://vishaldhiman.netlify.app/  
 - Open to: collaborations, contract work, and interesting backend problems.
-
-- Note: If you'd like, I can also generate a PR patch (single-file `README.md`), or provide the optimized GIF & a small SVG loader for direct copy-paste. Which would you prefer? ✅
