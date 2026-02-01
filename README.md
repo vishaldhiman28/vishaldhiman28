@@ -1,28 +1,5 @@
 # Hi! 👋 I'm Vishal Dhiman
 
-<p align="center">
-  <!-- Replace this GIF with an optimized local asset at `static/readme/header.gif` if it doesn't animate on GitHub -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Header" width="920"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaldhiman28&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Vishal's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldhiman28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldhiman28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=vishaldhiman28&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vishaldhiman28&theme=react-dark&area=true" alt="Activity Graph" />
-</p>
-
----
-
 ## About — Senior Software Engineer @ Helpshift
 
 I'm Vishal Dhiman. I build scalable, high-performance systems and developer tools — from notification pipelines and real-time systems to polished front-end experiences.
