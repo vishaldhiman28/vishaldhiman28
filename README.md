@@ -38,9 +38,7 @@ I'm Vishal Dhiman. I build scalable, high-performance systems and developer tool
 - 🌱 theKnightDB — Custom DB exploration & learning project. (https://github.com/vishaldhiman28/theKnightDB)
 - ⭐ The League of Bikers — Community ride platform. (https://github.com/vishaldhiman28/theleagueofbikers)
 - 📊 SDE Wrapped — Developer activity visualization tool. (https://github.com/vishaldhiman28/sde-wrapped)
-- 🔒 ReferMe — Private project. **Details withheld by author.**
 
-> Tip: If you want live demo thumbnails or scrubbable previews, include small optimized videos (WebM) per project and reference them in the project cards.
 
 ---
 
@@ -48,23 +46,4 @@ I'm Vishal Dhiman. I build scalable, high-performance systems and developer tool
 - Website: https://vishaldhiman.netlify.app/  
 - Open to: collaborations, contract work, and interesting backend problems.
 
----
-
-## Maintainers / Implementation Notes (for repo)
-- ✅ **Fix broken email/project links:** Verify `mailto:` links and each project `github`/`live` field under `src/components/CaseFiles.jsx` and `src/components/*`, then rebuild (`npm run build`).
-- ✅ **Animation not working:** If header GIF doesn't animate on GitHub, host an optimized GIF in `static/readme/header.gif` (<= 1–2 MB) or use a short WebM preview; for site animations prefer CSS/framer-motion or Lottie (smaller and smoother).
-- ✅ **Big loader image:** Replace the large bitmap loader with an SVG/CSS spinner or lightweight Lottie file in `src/components/LoadingAnimation.jsx`.
-- ✅ **Use consistent icons:** Prefer `react-icons` (already installed) or `simple-icons` and replace native emoji/bitmaps with SVG components across `Header`, `Navigation`, and README badges.
-
----
-
-## Minimal checklist to ship fixes
-1. Update `README.md` with this content (or paste the parts you prefer).  
-2. Replace header GIF with an optimized file in `static/readme/` and reference it (or host externally).  
-3. Fix `src/components/CaseFiles.jsx` project `description`/`github`/`live` fields and hide any private details.  
-4. Replace loader image in `src/components/LoadingAnimation.jsx` with an SVG/CSS loader.  
-5. Replace native icons with `react-icons` components for consistent visuals.
-
----
-
-> Note: If you'd like, I can also generate a PR patch (single-file `README.md`), or provide the optimized GIF & a small SVG loader for direct copy-paste. Which would you prefer? ✅
+- Note: If you'd like, I can also generate a PR patch (single-file `README.md`), or provide the optimized GIF & a small SVG loader for direct copy-paste. Which would you prefer? ✅
