@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Vishal Dhiman
 
-## About — Senior Software Engineer @ Helpshift
+## Senior Software Engineer @ Helpshift
 
 I'm Vishal Dhiman. I build scalable, high-performance systems and developer tools — from notification pipelines and real-time systems to polished front-end experiences.
 
