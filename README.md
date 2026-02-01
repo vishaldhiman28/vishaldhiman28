@@ -13,7 +13,6 @@ I'm Vishal Dhiman. I build scalable, high-performance systems and developer tool
 <p align="center">
   <a href="https://github.com/vishaldhiman28"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/vishaldhiman28"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:me@vishaldhiman.in"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
   <a href="https://vishaldhiman.netlify.app/"><img src="https://img.shields.io/badge/-Website-0D9488?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Website"/></a>
 </p>
 
